@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllVideos</key>
+	<array>
+		<dict>
+			<key>Id</key>
+			<string>0</string>
+			<key>Title</key>
+			<string>Monkey</string>
+			<key>Description</key>
+			<string>Sharpos monkey video</string>
+			<key>VideoFile</key>
+			<string>pl_monkeybro</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Special Gift</string>
+			<key>Description</key>
+			<string>Sharpos special gift video</string>
+			<key>Id</key>
+			<string>1</string>
+			<key>VideoFile</key>
+			<string>pl_specialgift</string>
+		</dict>
+		<dict>
+			<key>Id</key>
+			<string>2</string>
+			<key>Title</key>
+			<string>Birthday Pint</string>
+			<key>Description</key>
+			<string>Sharpos birthday pint video</string>
+			<key>VideoFile</key>
+			<string>pr_bdaypint</string>
+		</dict>
+		<dict>
+			<key>Id</key>
+			<string>3</string>
+			<key>Title</key>
+			<string>Old Man</string>
+			<key>Description</key>
+			<string>Sharpos old man video</string>
+			<key>VideoFile</key>
+			<string>qh_oldman</string>
+		</dict>
+		<dict>
+			<key>Id</key>
+			<string>4</string>
+			<key>Title</key>
+			<string>Disco invite</string>
+			<key>Description</key>
+			<string>Sharpos disco invite video</string>
+			<key>VideoFile</key>
+			<string>sm_discoinvite</string>
+		</dict>
+	</array>
+</dict>
+</plist>
